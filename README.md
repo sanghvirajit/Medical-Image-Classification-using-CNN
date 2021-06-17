@@ -27,4 +27,4 @@ visualization of some of the predicted images with percentage %
 
 ![Screenshot_20210616_142122](https://user-images.githubusercontent.com/69073063/122218901-2d53d700-ceaf-11eb-9db3-98b7a8e7d2a9.png)
 
-Did able to achieve the training accuracy of **96.68 %** and the testing accuracy of **93.10 %**. That's pretty decent, considering the size of the dataset.
+Did able to achieve the training accuracy of **96.68 %** and the testing accuracy of **93.10 %**. That's pretty decent, considering the size and the imbalance nature of the dataset.
